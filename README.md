@@ -20,12 +20,12 @@ https://mooc1.chaoxing.com/api/selectWorkQuestion?workId=000000&courseId=0000000
 
 分别添加三个脚本，点击章节测验
 
-![](C:\Users\23100\Desktop\Fuck-ChaoXing\img\select.png)
+![](img/select.png)
 
 会自动打开一个新的界面，显示出题目的明文，但是题目和答案的顺序可能不一样！！！
 
-![](C:\Users\23100\Desktop\Fuck-ChaoXing\img\cleartext.png)
+![](img/cleartext.png)
 
 点击题目（光标不显示可点击光标，但可以点）会自动打开题库并进行检索相应题目，得到答案
 
-![](C:\Users\23100\Desktop\Fuck-ChaoXing\img\search.png)
+![](img/search.png)
