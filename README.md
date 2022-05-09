@@ -26,6 +26,7 @@ https://mooc1.chaoxing.com/api/selectWorkQuestion?workId=000000&courseId=0000000
 
 ![](img/cleartext.png)
 
-点击题目（光标不显示可点击光标，但可以点）会自动打开题库并进行检索相应题目，得到答案
+点击题目（光标不显示可点击光标，但可以点）会自动打开题库并进行检索相应题目，得到答案（存在bug，建议使用下面这种）
+复制题目文字，会自动打开题库界面并进行检索
 
 ![](img/search.png)
